@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript program that demonstrates a common type error. The program defines a function that takes a string as an argument, but it then attempts to pass an array of strings to the function. This results in a compilation error. The solution shows how to fix the error by correctly passing a string to the function.
